@@ -5,8 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
-*.env
-api_key.env
+
+# Environment variables
+
+.env
 
 # Virtual environments
 .venv
